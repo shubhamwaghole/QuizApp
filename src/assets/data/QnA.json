@@ -1,0 +1,27 @@
+[{
+    "qDesc": "Which of the following is true about ng-app directive?",
+    "qMark": 1,
+    "qCorrect": "Both of the above.",
+    "qOption": ["ng-app directive defines and links an AngularJS application to HTML",
+    "ng-app directive indicates the start of the application.",
+    "Both of the above.",
+    "None of the above."]
+  },
+  {
+    "qDesc": "Which of the following is true about AngularJS service?",
+    "qMark": 1,
+    "qCorrect": "All of the above.",
+    "qOption": ["Services are JavaScript functions.",
+    "Services are responsible to do specific tasks only",
+    "Inbuilt services are always prefixed with $ symbol.",
+    "All of the above."]
+  },
+  {
+    "qDesc": "Which of the following is true about $routeProvider?",
+    "qMark": 1,
+    "qCorrect": "All of the above.",
+    "qOption": ["$routeProvider is the key service which set the configuration of urls.",
+    "$routeProvider maps Urls with the corresponding html page or ng-template.",
+    "$routeProvider attaches a controller with the view.",
+    "All of the above."]
+  }]
